@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.hussein.daggerroomdb.database.UserEntity
 import com.hussein.daggerroomdb.databinding.ActivityMainBinding
 import com.hussein.daggerroomdb.viewmodel.MainViewModel
-/** Tutorial from here :https://www.youtube.com/watch?v=US4FTppuIO0&ab_channel=LearningWorldz */
+
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
     lateinit var mainViewModel: MainViewModel
